@@ -4,11 +4,8 @@
   ## Description
   This project was to develop the back end for an e-commerce site. Using a working Express.js API, code was added to configure it to use Sequelize to interact with a MySQL database.
 
-  * [Demonstration Video](https://watch.screencastify.com/v/rd5m8W4B4hWN1sjUnxik)
+  * [Demonstration Video](https://www.awesomescreenshot.com/video/14528841?key=03f95ace5f3cbee6e937b98f93554dbe)
 
-    ![ORM BackEnd SS](https://user-images.githubusercontent.com/79202800/142947948-ff915ba4-783f-44e6-a631-5c3f791fb0e1.PNG)
-    
-    ![ORM BackEnd SS2](https://user-images.githubusercontent.com/79202800/142948004-13bf370d-8777-43cb-a59d-25fad29592db.PNG)
 
 
      ***************************************************************
